@@ -1,5 +1,6 @@
 import requests
 
+
 def fetch_weather_data(location):
    
     api_key = 'YOUR_API_KEY'  # Replace 'YOUR_API_KEY' with your actual API key from OpenWeatherMap.
